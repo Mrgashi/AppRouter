@@ -1,0 +1,11 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/dashboard/customers/page": "/dashboard/customers",
+  "/dashboard/invoices/page": "/dashboard/invoices",
+  "/dashboard/overview/page": "/dashboard/overview",
+  "/dashboard/page": "/dashboard",
+  "/page": "/",
+  "/query/route": "/query",
+  "/seed/route": "/seed"
+}

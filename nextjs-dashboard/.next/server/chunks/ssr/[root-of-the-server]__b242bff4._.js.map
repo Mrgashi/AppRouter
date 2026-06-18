@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../nextjs-dashboard/app/dashboard/invoices/page.tsx"],"sourcesContent":["\nexport default function page() {\n    return <p>Invoices</p>\n}\n"],"names":[],"mappings":"iXACe,SAAS,IACpB,MAAO,CAAA,EAAA,EAAA,GAAA,EAAC,IAAA,UAAE,YACd"}
