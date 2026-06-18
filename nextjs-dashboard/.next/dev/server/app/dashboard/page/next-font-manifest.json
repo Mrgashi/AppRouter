@@ -1,0 +1,11 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/nextjs-dashboard/app/dashboard/page": [
+      "static/media/568219ae74a4794d-s.p.ae51889f.woff2",
+      "static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}
