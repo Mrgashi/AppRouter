@@ -1,3 +1,3 @@
 {
-  "/seed/route": "app/seed/route.js"
+  "/query/route": "app/query/route.js"
 }
